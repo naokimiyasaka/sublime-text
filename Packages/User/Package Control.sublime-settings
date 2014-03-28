@@ -1,0 +1,25 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AndyPHP",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"EditorConfig",
+		"Goto-CSS-Declaration",
+		"IMESupport",
+		"IndentGuides",
+		"Package Control",
+		"PHP Getters and Setters",
+		"PhpBeautifier",
+		"SimpleClone",
+		"SuperNavigator",
+		"SyncedSideBar",
+		"Theme - Flatland",
+		"TrailingSpaces"
+	]
+}
